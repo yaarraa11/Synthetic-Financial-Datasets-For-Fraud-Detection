@@ -3,6 +3,10 @@
 * Nouf Almalki
 * Yara Aldossary
 
+![TLC logo](https://feedzai.com/aptopees/2020/12/Header_Fraud_Detection_and_Prevention-.jpg)
+
+
+
 # Synthetic Financial Datasets : An Overview
 
 Ever since the advent of internet the digital revolution has rising and has creeped into all aspects to our lives. One of the most important digital revolution happend in financial system and especially transacting money to someone from any part of the world digitally. Digital transactions have become a part of daily life like purchasing a product online, sending money to friends, depositing cash in bank account, investment purposes etc., They had a lot of benefits so does paved way for fradulent activities. People started using digital money transactions medium to launder money and make the money look like it comes from a legal source. This dataset (https://www.kaggle.com/ealaxi/paysim1) is presently only one of four on Kaggle with information on the rising risk of digital financial fraud, emphasizing the difficulty in obtaining such data.
