@@ -23,8 +23,6 @@ The objective is to find the patterns of transactions performed and help algorit
 
 # Headers
 
-This is a sample of 1 row with headers explanation:
-
 * step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
 
 * type - CASH-IN, CASH-OUT, DEBIT, PAYMENT and TRANSFER.
