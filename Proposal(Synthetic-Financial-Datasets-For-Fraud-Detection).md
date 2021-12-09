@@ -12,7 +12,7 @@ Ever since the advent of internet the digital revolution has rising and has cree
 
 The main technical challenge it poses to predicting fraud is the highly imbalanced distribution between positive and negative classes in 6 million rows of data. Another stumbling block to the utility of this data stems from the possible discrepancies in its description.
 
-# Objective:
+# Objective
 
 The objective is to find the patterns of transactions performed and help algorithms learn those patterns in identifying the fradulent transactions and flag them.
 
@@ -43,10 +43,12 @@ This is a sample of 1 row with headers explanation:
 
 * isFlaggedFraud - The business model aims to control massive transfers from one account to another and flags illegal attempts. An illegal attempt in this dataset is an attempt to transfer more than 200.000 in a single transaction.
 
-# Goals:
+# Goals
 
-1 - Exploratory analysis of data to extract the pattern of fraudlent activites
-2 - Build a machine learning model to classify fraud and non-fraud transactions
+1 - Exploratory analysis of data to extract the pattern of fraudlent activites.
+
+2 - Build a machine learning model to classify fraud and non-fraud transactions.
+
 3 - Reduce the false negatives by tuning the model.
 
 # Tools
