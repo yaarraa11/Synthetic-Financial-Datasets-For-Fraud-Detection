@@ -54,5 +54,5 @@ This is a sample of 1 row with headers explanation:
 # Tools
 
 * Technologies: Python, Jupyter notebook.
-* Libraries: NumPy, Pandas, Sklearn, Matplotlib, Seaborn, Tableau.
+* Libraries: NumPy, Pandas, Sklearn, Matplotlib, Seaborn.
 
